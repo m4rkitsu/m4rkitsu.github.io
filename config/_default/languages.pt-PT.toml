@@ -1,27 +1,14 @@
-languageCode = "pt-PT"
-languageName = "Portuguese"
-weight = 2
-title = "Gray Blowfish"
-contentDir = 'content/pt'
-
+languageCode = "es"
+languageName = "Español"
+weight = 1
+title = "S3ntinl"
+contentDir = "content/pt"
 
 [params]
-  displayName = "PT"
-  isoCode = "pt-PT"
-  rtl = false
-  # logo = "img/logo.png"
-  description = "O meu website awesome"
-  # copyright = "Copy, _right?_ :thinking_face:"
-
+displayName = "Español"
+isoCode = "es"
+rtl = false
+description = "S3ntinl's Hacking Blog"
 dateFormat = "2 January 2006"
+author = { name = "S3ntinl", image = "img/author.jpeg", headline = "Ethical Hacker | Penetration Tester | Bug Bounty Hunter", bio = "Embrace The Unseen", links = [ { link = "https://app.hackthebox.com/profile/1650462" }, { github = "https://github.com/S3ntinl" }, { linkedin = "https://www.linkedin.com/in/marcosgarciaarcos/" } ] }
 
-[params.author]
-  name = "Gray Blowfish"
-  image = "img/avatar.png"
-  headline = "Um perfil simples com os meus links"
-  bio = "A little bit about you"
-   links = [
-     { link = "https://nunocoracao.github.io/blowfish/" },
-     { github = "https://github.com/nunocoracao/blowfish" },
-     { x-twitter = "https://twitter.com/burufugu" }
-   ]

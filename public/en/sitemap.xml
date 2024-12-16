@@ -9,7 +9,7 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="pt-PT"
+      hreflang="es"
       href="//localhost:1313/pt-pt/categories/blog/"
     />
     <xhtml:link
@@ -25,7 +25,7 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="pt-PT"
+      hreflang="es"
       href="//localhost:1313/pt-pt/categories/"
     />
     <xhtml:link
@@ -35,29 +35,13 @@
     />
   </url>
   <url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-PT"
-      href="//localhost:1313/pt-pt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/"
-    />
-  </url>
-  <url>
     <loc>//localhost:1313/tags/ipsum/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="pt-PT"
+      hreflang="es"
       href="//localhost:1313/pt-pt/tags/ipsum/"
     />
     <xhtml:link
@@ -73,7 +57,7 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="pt-PT"
+      hreflang="es"
       href="//localhost:1313/pt-pt/tags/lorem/"
     />
     <xhtml:link
@@ -89,7 +73,7 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="pt-PT"
+      hreflang="es"
       href="//localhost:1313/pt-pt/tags/post/"
     />
     <xhtml:link
@@ -105,7 +89,7 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="pt-PT"
+      hreflang="es"
       href="//localhost:1313/pt-pt/categories/post/"
     />
     <xhtml:link
@@ -121,7 +105,7 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="pt-PT"
+      hreflang="es"
       href="//localhost:1313/pt-pt/posts/"
     />
     <xhtml:link
@@ -131,13 +115,29 @@
     />
   </url>
   <url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/"
+    />
+  </url>
+  <url>
     <loc>//localhost:1313/posts/post-lite-one/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="pt-PT"
+      hreflang="es"
       href="//localhost:1313/pt-pt/posts/post-lite-one/"
     />
     <xhtml:link
@@ -153,7 +153,7 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="pt-PT"
+      hreflang="es"
       href="//localhost:1313/pt-pt/posts/post-lite-three/"
     />
     <xhtml:link
@@ -169,7 +169,7 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="pt-PT"
+      hreflang="es"
       href="//localhost:1313/pt-pt/posts/post-lite-two/"
     />
     <xhtml:link
@@ -185,7 +185,7 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="pt-PT"
+      hreflang="es"
       href="//localhost:1313/pt-pt/tags/"
     />
     <xhtml:link
@@ -201,7 +201,7 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="pt-PT"
+      hreflang="es"
       href="//localhost:1313/pt-pt/posts/post-lite-four/"
     />
     <xhtml:link
@@ -216,7 +216,7 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="pt-PT"
+      hreflang="es"
       href="//localhost:1313/pt-pt/authors/"
     />
     <xhtml:link
@@ -231,7 +231,7 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="pt-PT"
+      hreflang="es"
       href="//localhost:1313/pt-pt/series/"
     />
     <xhtml:link
