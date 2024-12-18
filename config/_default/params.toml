@@ -16,7 +16,7 @@ showScrollToTop = true
 
 [homepage]
 layout = "profile"
-homepageImage = "/avatar.png"
+homepageImage = "gradient.png"
 showRecent = true
 showRecentItems = 3
 showMoreLink = false
@@ -50,7 +50,7 @@ sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "face
 [list]
 showHero = true
 heroStyle = "background"
-layoutBackgroundHeaderSpace = false
+layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
 showSummary = true
 showTableOfContents = false
