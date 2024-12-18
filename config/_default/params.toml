@@ -27,7 +27,7 @@ mainSections = ["posts"]
 
 [homepage]
 layout = "profile"
-homepageImage = "img/gradient.png"
+homepageImage = "/avatar.png"
 showRecent = true
 showRecentItems = 3
 showMoreLink = true
