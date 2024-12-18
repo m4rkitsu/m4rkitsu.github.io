@@ -39,7 +39,7 @@ Service Info: Host: searcher.htb; OS: Linux; CPE: cpe:/o:linux:linux_kernel
 We can see that the web on port 80 redirects to **searcher.htb**. Let's add it to `/etc/hosts`.
 
 As soon as we land on the page, we see the following:
-![Busqueda3](img/busqueda/busqueda3.png)
+![Busqueda1](img/busqueda/busqueda1.png)
 
 A quick look shows the version of the App that is running behind this website, which is **Searchor 2.4.0**. If we look for vulnerabilities, we find the following [exploit](https://github.com/nikn0laty/Exploit-for-Searchor-2.4.0-Arbitrary-CMD-Injection)
 - - -
