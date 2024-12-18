@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on S3ntinl</title>
-    <link>//localhost:1313/pt-pt/tags/about/</link>
+    <link>//localhost:52392/pt-pt/tags/about/</link>
     <description>Recent content in About on S3ntinl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2024 S3ntinl</copyright>
-    <lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/pt-pt/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:52392/pt-pt/tags/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Quién es S3ntinl?</title>
-      <link>//localhost:1313/pt-pt/about/</link>
+      <link>//localhost:52392/pt-pt/about/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/pt-pt/about/</guid>
+      <guid>//localhost:52392/pt-pt/about/</guid>
       <description>A little introduction about myself!</description>
       
     </item>

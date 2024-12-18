@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on S3ntinl</title>
-    <link>//localhost:1313/tags/</link>
+    <link>//localhost:52392/tags/</link>
     <description>Recent content in Tags on S3ntinl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 S3ntinl</copyright>
-    <lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:52392/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>//localhost:1313/tags/about/</link>
+      <link>//localhost:52392/tags/about/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/about/</guid>
+      <guid>//localhost:52392/tags/about/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Post</title>
-      <link>//localhost:1313/tags/post/</link>
+      <link>//localhost:52392/tags/post/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/post/</guid>
+      <guid>//localhost:52392/tags/post/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Whoami</title>
-      <link>//localhost:1313/tags/whoami/</link>
+      <link>//localhost:52392/tags/whoami/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/whoami/</guid>
+      <guid>//localhost:52392/tags/whoami/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ipsum</title>
-      <link>//localhost:1313/tags/ipsum/</link>
+      <link>//localhost:52392/tags/ipsum/</link>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/ipsum/</guid>
+      <guid>//localhost:52392/tags/ipsum/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lorem</title>
-      <link>//localhost:1313/tags/lorem/</link>
+      <link>//localhost:52392/tags/lorem/</link>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/lorem/</guid>
+      <guid>//localhost:52392/tags/lorem/</guid>
       <description></description>
       
     </item>

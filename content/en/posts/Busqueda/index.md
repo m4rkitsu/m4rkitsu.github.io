@@ -39,7 +39,7 @@ Service Info: Host: searcher.htb; OS: Linux; CPE: cpe:/o:linux:linux_kernel
 We can see that the web on port 80 redirects to **searcher.htb**. Let's add it to `/etc/hosts`.
 
 As soon as we land on the page, we see the following:
-![Busqueda1](img/Busqueda/busqueda1.png)
+![Busqueda1](img/Busqueda/Busqueda1.png)
 
 A quick look shows the version of the App that is running behind this website, which is **Searchor 2.4.0**. If we look for vulnerabilities, we find the following [exploit](https://github.com/nikn0laty/Exploit-for-Searchor-2.4.0-Arbitrary-CMD-Injection)
 - - -
@@ -84,7 +84,7 @@ svc@busqueda:/var/www/app/.git$ cat config
 
 The user is **cody** and the password is **jh1usoih2bkjaspwe92** for an application in a subdomain called **gitea**. Let's add it to the `/etc/hosts` and take a look.
 
-![Busqueda2](img/Busqueda/busqueda2.png)
+![Busqueda2](img/Busqueda/Busqueda2.png)
 
 Inside here, we don't find anything interesing, appart that we can see a user called **administrator**. Although, we can try to SSH with the **svc** user and **cody's** password:
 
@@ -148,7 +148,7 @@ svc@busqueda:/opt/scripts$ sudo /usr/bin/python3 /opt/scripts/system-checkup.py 
 It looks like we find more credentials for the **gitea** application. Let's try to log in as **administrator**
 with these credentials.
 
-![Busqueda3](img/Busqueda/busqueda3.png)
+![Busqueda3](img/Busqueda/Busqueda3.png)
 
 Nice! Now we can check the content of the **scripts** in the **/opt** folder.
 
