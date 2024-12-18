@@ -3,7 +3,7 @@
 title: "Busqueda"
 summary: "Busqueda Machine From HackTheBox"
 categories: ["Post","Blog",]
-tags: ["post","lorem","ipsum"]
+tags: ["post","linux ","hackthebox"]
 #externalUrl: ""
 #showSummary: true
 draft: false

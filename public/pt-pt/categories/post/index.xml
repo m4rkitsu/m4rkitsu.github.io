@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post on S3ntinl</title>
-    <link>//localhost:52392/pt-pt/categories/post/</link>
+    <link>//localhost:1313/pt-pt/categories/post/</link>
     <description>Recent content in Post on S3ntinl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2024 S3ntinl</copyright>
-    <lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:52392/pt-pt/categories/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/pt-pt/categories/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Busqueda</title>
-      <link>//localhost:52392/pt-pt/posts/busqueda/</link>
+      <link>//localhost:1313/pt-pt/posts/busqueda/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:52392/pt-pt/posts/busqueda/</guid>
+      <guid>//localhost:1313/pt-pt/posts/busqueda/</guid>
       <description>Busqueda Machine From HackTheBox</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:52392/pt-pt/posts/busqueda/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/pt-pt/posts/busqueda/cover.png" />
     </item>
     
     <item>
       <title>Quién es S3ntinl?</title>
-      <link>//localhost:52392/pt-pt/about/</link>
+      <link>//localhost:1313/pt-pt/about/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:52392/pt-pt/about/</guid>
+      <guid>//localhost:1313/pt-pt/about/</guid>
       <description>A little introduction about myself!</description>
       
     </item>
