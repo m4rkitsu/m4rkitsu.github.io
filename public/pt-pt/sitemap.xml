@@ -67,36 +67,26 @@
     />
   </url>
   <url>
-    <loc>//localhost:1313/pt-pt/tags/ipsum/</loc>
+    <loc>//localhost:1313/pt-pt/tags/hackthebox/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/tags/ipsum/"
+      href="//localhost:1313/tags/hackthebox/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="//localhost:1313/pt-pt/tags/ipsum/"
+      href="//localhost:1313/pt-pt/tags/hackthebox/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/pt-pt/tags/lorem/</loc>
+    <loc>//localhost:1313/pt-pt/tags/linux/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/tags/lorem/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="//localhost:1313/pt-pt/tags/lorem/"
-    />
   </url>
   <url>
     <loc>//localhost:1313/pt-pt/tags/post/</loc>
