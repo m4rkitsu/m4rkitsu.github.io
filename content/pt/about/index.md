@@ -1,6 +1,6 @@
 ---
 title: "Quién es S3ntinl?"
-summary: "A little introduction about myself!"
+summary: "Una pequeña introducción sobre mi!"
 categories: ["Post","Blog",]
 tags: ["post","whoami","about"]
 #externalUrl: ""
