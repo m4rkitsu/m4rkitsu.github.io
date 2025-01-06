@@ -15,7 +15,7 @@
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/posts/active/</guid>
-      <description>Active is an easy to medium difficulty machine, which features two very prevalent techniques to gain privileges within an Active Directory environment. This machine teaches us about Group Policy Preferences Passwords and how to abuse them.</description>
+      <description>Active is an easy to medium difficulty machine, which features two very prevalent techniques to gain privileges within an Active Directory environment. This machine teaches us about Group Policy Preferences Passwords from Windows and how to abuse them.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/active/cover.png" />
     </item>
     

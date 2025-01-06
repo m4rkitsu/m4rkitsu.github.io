@@ -15,7 +15,7 @@
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/pt-pt/posts/busqueda/</guid>
-      <description>Busqueda Machine From HackTheBox</description>
+      <description>Busqueda es una máquina Linux de dificultad fácil que implica explotar una vulnerabilidad de inyección de comandos presente en un módulo &lt;code&gt;Python&lt;/code&gt; para obtener acceso a nivel de usuario a la máquina. Para escalar privilegios a &lt;code&gt;root&lt;/code&gt;, descubrimos credenciales dentro de un archivo de configuración &lt;code&gt;Git&lt;/code&gt;, lo que nos permite iniciar sesión en un servicio &lt;code&gt;Gitea&lt;/code&gt; local.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/pt-pt/posts/busqueda/cover.png" />
     </item>
     
