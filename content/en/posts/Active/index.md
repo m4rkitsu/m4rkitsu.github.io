@@ -1,7 +1,7 @@
 
 ---
 title: "Active"
-summary: "Active is an easy to medium difficulty machine, which features two very prevalent techniques to gain privileges within an Active Directory environment. This machine teaches us about Group Policy Preferences Passwords and how to abuse them."
+summary: "Active is an easy to medium difficulty machine, which features two very prevalent techniques to gain privileges within an Active Directory environment. This machine teaches us about Group Policy Preferences Passwords from Windows and how to abuse them."
 categories: ["Post","Blog",]
 tags: ["post","hackthebox","windows"]
 #externalUrl: ""

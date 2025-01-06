@@ -1,7 +1,7 @@
 
 ---
 title: "Active"
-summary: "Active es una máquina de dificultad fácil a media, que cuenta con dos técnicas muy comunes para obtener privilegios dentro de un entorno de Active Directory. Esta máquina nos enseña sobre las preferencias de directivas de grupo y contraseñas y cómo abusar de ellas."
+summary: "Active es una máquina de dificultad fácil a media, que cuenta con dos técnicas muy comunes para obtener privilegios dentro de un entorno de Active Directory. Esta máquina nos enseña sobre las Preferencias de Directivas de Grupo (GPP) de Windows y contraseñas y cómo abusar de ellas."
 categories: ["Post","Blog",]
 tags: ["post","hackthebox","windows"]
 #externalUrl: ""
