@@ -6,8 +6,18 @@
     <description>Recent content in Post on S3ntinl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 S3ntinl</copyright>
-    <lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/post/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 S3ntinl</copyright>
+    <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Active</title>
+      <link>//localhost:1313/posts/active/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/active/</guid>
+      <description>Active is an easy to medium difficulty machine, which features two very prevalent techniques to gain privileges within an Active Directory environment. This machine teaches us about Group Policy Preferences Passwords and how to abuse them.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/active/cover.png" />
+    </item>
     
     <item>
       <title>Who is S3ntinl?</title>

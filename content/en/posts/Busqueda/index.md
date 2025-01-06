@@ -1,7 +1,7 @@
 
 ---
 title: "Busqueda"
-summary: "Busqueda Machine From HackTheBox"
+summary: "Busqueda is an Easy Difficulty Linux machine that involves exploiting a command injection vulnerability present in a `Python` module to gain user-level access to the machine. To escalate privileges to `root`, we discover credentials within a `Git` config file, allowing us to log into a local `Gitea` service."
 categories: ["Post","Blog",]
 tags: ["post","linux ","hackthebox"]
 #externalUrl: ""

@@ -6,8 +6,38 @@
     <description>Recent content in Tags on S3ntinl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <copyright>© 2024 S3ntinl</copyright>
-    <lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/pt-pt/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 S3ntinl</copyright>
+    <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/pt-pt/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hackthebox</title>
+      <link>//localhost:1313/pt-pt/tags/hackthebox/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pt-pt/tags/hackthebox/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>//localhost:1313/pt-pt/tags/post/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pt-pt/tags/post/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>//localhost:1313/pt-pt/tags/windows/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pt-pt/tags/windows/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>About</title>
@@ -20,31 +50,11 @@
     </item>
     
     <item>
-      <title>Hackthebox</title>
-      <link>//localhost:1313/pt-pt/tags/hackthebox/</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/pt-pt/tags/hackthebox/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Linux</title>
       <link>//localhost:1313/pt-pt/tags/linux/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/pt-pt/tags/linux/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Post</title>
-      <link>//localhost:1313/pt-pt/tags/post/</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/pt-pt/tags/post/</guid>
       <description></description>
       
     </item>

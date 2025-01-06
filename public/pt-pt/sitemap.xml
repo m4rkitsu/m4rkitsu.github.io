@@ -3,6 +3,166 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>//localhost:1313/pt-pt/posts/active/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/posts/active/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/posts/active/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/categories/blog/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/categories/blog/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/categories/blog/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/categories/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/categories/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/categories/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/tags/hackthebox/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/tags/hackthebox/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/tags/hackthebox/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/tags/post/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/tags/post/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/tags/post/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/categories/post/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/categories/post/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/categories/post/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/posts/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/posts/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/tags/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/tags/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/tags/windows/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/tags/windows/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/tags/windows/"
+    />
+  </url>
+  <url>
     <loc>//localhost:1313/pt-pt/tags/about/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -16,22 +176,6 @@
       rel="alternate"
       hreflang="es"
       href="//localhost:1313/pt-pt/tags/about/"
-    />
-  </url>
-  <url>
-    <loc>//localhost:1313/pt-pt/categories/blog/</loc>
-    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/categories/blog/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="//localhost:1313/pt-pt/categories/blog/"
     />
   </url>
   <url>
@@ -51,90 +195,10 @@
     />
   </url>
   <url>
-    <loc>//localhost:1313/pt-pt/categories/</loc>
-    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/categories/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="//localhost:1313/pt-pt/categories/"
-    />
-  </url>
-  <url>
-    <loc>//localhost:1313/pt-pt/tags/hackthebox/</loc>
-    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/tags/hackthebox/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="//localhost:1313/pt-pt/tags/hackthebox/"
-    />
-  </url>
-  <url>
     <loc>//localhost:1313/pt-pt/tags/linux/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/pt-pt/tags/post/</loc>
-    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/tags/post/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="//localhost:1313/pt-pt/tags/post/"
-    />
-  </url>
-  <url>
-    <loc>//localhost:1313/pt-pt/categories/post/</loc>
-    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/categories/post/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="//localhost:1313/pt-pt/categories/post/"
-    />
-  </url>
-  <url>
-    <loc>//localhost:1313/pt-pt/posts/</loc>
-    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/posts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="//localhost:1313/pt-pt/posts/"
-    />
   </url>
   <url>
     <loc>//localhost:1313/pt-pt/about/</loc>
@@ -150,38 +214,6 @@
       rel="alternate"
       hreflang="es"
       href="//localhost:1313/pt-pt/about/"
-    />
-  </url>
-  <url>
-    <loc>//localhost:1313/pt-pt/</loc>
-    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="//localhost:1313/pt-pt/"
-    />
-  </url>
-  <url>
-    <loc>//localhost:1313/pt-pt/tags/</loc>
-    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="//localhost:1313/pt-pt/tags/"
     />
   </url>
   <url>
