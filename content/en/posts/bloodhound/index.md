@@ -9,7 +9,8 @@ tags: ["post","bloodhound","sharphound"]
 draft: false
 date: 2025-01-11
 
-- - -
+---
+
 ## BloodHound 
 **BloodHound** is a powerful and widely used tool in the field of cybersecurity, particularly for penetration testers in _Corporative Enviroments_. It is designed to map and analyze Active Directory structures, helping identify security misconfigurations and potential attack paths that an adversary could exploit to escalate privileges or gain access to sensitive resources.
 

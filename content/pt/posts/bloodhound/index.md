@@ -9,7 +9,8 @@ tags: ["post","bloodhound","sharphound"]
 draft: false
 date: 2025-01-11
 
-- - -
+---
+
 ## BloodHound 
 **BloodHound** es una herramienta poderosa y ampliamente utilizada en el campo de la ciberseguridad, particularmente para los evaluadores de penetración en entornos corporativos. Está diseñada para mapear y analizar las estructuras de Active Directory, ayudando a identificar configuraciones de seguridad incorrectas y posibles rutas de ataque que un adversario podría explotar para escalar privilegios u obtener acceso a recursos confidenciales.
 
