@@ -16,7 +16,7 @@ date: 2025-01-11
 
 **BloodHound** opera mediante la recopilación y visualización de relaciones dentro de un dominio de AD. Estas relaciones incluyen membresías de grupos, permisos de usuario, relaciones de confianza y más. La fortaleza de la herramienta radica en su capacidad para descubrir cadenas complejas de privilegios que podrían ser invisibles para los administradores que auditan manualmente la seguridad de AD.
 
-Realizaremos una instalación rápida paso a paso de la versión comunitaria de **BloodHound**, así como un pequeño tutorial paso a paso sobre cómo ejecutar **BloodHound** y **SharpHound** tomando como ejemplo la máquina [Forest]({{< ref "pt/post/forest/index.md" >}} "Forest") de HackTheBox. ¡Échale un vistazo si aún no lo has hecho a mi post!
+Realizaremos una instalación rápida paso a paso de la versión comunitaria de **BloodHound**, así como un pequeño tutorial paso a paso sobre cómo ejecutar **BloodHound** y **SharpHound** tomando como ejemplo la máquina [Forest]({{< ref "post/forest/index.md" >}} "Forest") de HackTheBox. ¡Échale un vistazo si aún no lo has hecho a mi post!
 
 ¡Comencemos!
 
