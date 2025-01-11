@@ -149,7 +149,7 @@ htb\svc-alfresco
 ## Escalada de privilegios
 Ahora que estamos dentro de la máquina como un usuario con pocos privilegios, queremos tomar el control de la cuenta de administrador para poder rootear el **controlador de dominio**.
 
-Podemos mapear los objetos de dominio con **BloodHound**. Echa un vistazo a mi publicación [BloodHound]({{< ref "/content/pt/post/bloodhound/index.md" >}} "BloodHound") donde vamos cómo hacer una instalación rápida y comenzar a usarlo, si aún no lo has hecho!
+Podemos mapear los objetos de dominio con **BloodHound**. Echa un vistazo a mi publicación **BloodHound** donde vamos cómo hacer una instalación rápida y comenzar a usarlo, si aún no lo has hecho!
 
 Primero, necesitamos recolectar la información con **SharpHound**, así que después de cargarla a la máquina, hacemos lo siguiente:
 
