@@ -21,7 +21,7 @@ Realizaremos una instalación rápida paso a paso de la versión comunitaria de 
 ¡Comencemos!
 
 - - -
-## Installation
+## Instalación
 Primero, necesitamos instalar _Docker_:
 
 ```bash
