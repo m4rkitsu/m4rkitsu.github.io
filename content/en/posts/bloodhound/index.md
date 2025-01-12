@@ -16,7 +16,7 @@ date: 2025-01-11
 
 **BloodHound** operates by collecting and visualizing relationships within an AD domain. These relations include group memberships, user permissions, trust relationships, and more. The tool’s strength lies in its ability to uncover complex chains of privileges that might be invisible to administrators manually auditing AD security.
 
-We will do a quick installation step by step of the Community Version of **BloodHound**, as well and a small step by step tutorial on how to run both **BloodHound** and **SharpHound** taking as an example the Forest Machine from HackTheBox. Check out my post of the machine if you haven't already!
+We will do a quick installation step by step of the Community Version of **BloodHound**, as well and a small step by step tutorial on how to run both **BloodHound** and **SharpHound** taking as an example the [Forest](https://s3ntinl.github.io/posts/forest/) Machine from HackTheBox. Check out my post of the machine if you haven't already!
 
 Let's begin!
 

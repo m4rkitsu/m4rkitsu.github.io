@@ -150,7 +150,7 @@ Nice! We are inside the system. We can now claim the _user flag_.
 ## Privilege Escalation
 Now that we are inside the machine as a low-privileged user, we want to take control over the Administrator account in order to root the **Domain Controller**.
 
-We can map out the Domain objects with **BloodHound**. Take a look at my **BloodHound** post where we discuss how to do a quick installation and start using it if you haven't already! 
+We can map out the Domain objects with **BloodHound**. Take a look at my [BloodHound](https://s3ntinl.github.io/posts/bloodhound/) post where we discuss how to do a quick installation and start using it if you haven't already! 
 
 First, we need to recolect the information with **SharpHound**, so after uploading it to the machine, we do the following:
 
