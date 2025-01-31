@@ -11,12 +11,12 @@
     
     <item>
       <title>Sauna</title>
-      <link>//localhost:1313/sauna/</link>
+      <link>//localhost:1313/posts/sauna/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/sauna/</guid>
+      <guid>//localhost:1313/posts/sauna/</guid>
       <description>Sauna is an easy difficulty Windows machine that features Active Directory enumeration and exploitation. Possible usernames can be derived from employee full names listed on the website. With these usernames, an ASREPRoasting attack can be performed. After enumeration, BloodHound reveals that a user has the &lt;em&gt;DS-Replication-Get-Changes-All&lt;/em&gt; extended right, which allows to perform a DCSync attack.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/sauna/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/sauna/cover.png" />
     </item>
     
     <item>
