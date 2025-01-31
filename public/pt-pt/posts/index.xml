@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2025 S3ntinl</copyright>
-    <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/pt-pt/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/pt-pt/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sauna</title>
+      <link>//localhost:1313/pt-pt/posts/sauna/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pt-pt/posts/sauna/</guid>
+      <description>Sauna es una máquina Windows de dificultad fácil que cuenta con enumeración y explotación de Active Directory. Los posibles nombres de usuario se pueden derivar de los nombres completos de los empleados que figuran en el sitio web. Con estos nombres de usuario, se puede realizar un ataque ASREPRoasting. Después de la enumeración, BloodHound revela que un usuario tiene el derecho extendido &lt;em&gt;DS-Replication-Get-Changes-All&lt;/em&gt;, que permite realizar un ataque DCSync.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/pt-pt/posts/sauna/cover.png" />
+    </item>
+    
+    <item>
+      <title>Cómo Configurar BloodHound Community Edition</title>
+      <link>//localhost:1313/pt-pt/posts/bloodhound/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pt-pt/posts/bloodhound/</guid>
+      <description>Explicación rápida sobre cómo poner en funcionamiento BloodHound en unos minutos. Esta publicación incluye una guía de instalación paso a paso de &lt;strong&gt;BloodHound&lt;/strong&gt;, así como la descarga de &lt;strong&gt;SharpHound&lt;/strong&gt; y su carga en una máquina para mapear una red de Active Directory.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/pt-pt/posts/bloodhound/cover.png" />
+    </item>
+    
+    <item>
+      <title>Forest</title>
+      <link>//localhost:1313/pt-pt/posts/forest/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pt-pt/posts/forest/</guid>
+      <description>Forest en un controlador de dominio de Windows de dificultad fácil, para un dominio en el que se ha instalado Exchange Server. El punto de apoyo se puede obtener a través de AS-REP Roasting. Se descubre que la cuenta de servicio es miembro del grupo Operadores de cuenta, que se puede utilizar para agregar usuarios y aprovechar posteriormente los privilegios de DCSync.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/pt-pt/posts/forest/cover.png" />
+    </item>
     
     <item>
       <title>Active</title>

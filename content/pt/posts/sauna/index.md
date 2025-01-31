@@ -1,7 +1,7 @@
 
 ---
 title: "Sauna"
-summary: "Sauna es una máquina Windows de dificultad fácil que cuenta con enumeración y explotación de Active Directory. Los posibles nombres de usuario se pueden derivar de los nombres completos de los empleados que figuran en el sitio web. Con estos nombres de usuario, se puede realizar un ataque ASREPRoasting. Después de la enumeración, BloodHound revela que un usuario tiene el derecho extendido *DS-Replication-Get-Changes-All*, que permite realizar un ataque DCSync.
+summary: "Sauna es una máquina Windows de dificultad fácil que cuenta con enumeración y explotación de Active Directory. Los posibles nombres de usuario se pueden derivar de los nombres completos de los empleados que figuran en el sitio web. Con estos nombres de usuario, se puede realizar un ataque ASREPRoasting. Después de la enumeración, BloodHound revela que un usuario tiene el derecho extendido *DS-Replication-Get-Changes-All*, que permite realizar un ataque DCSync."
 categories: ["Post","Blog",]
 tags: ["post","hackthebox","windows"]
 #externalUrl: ""
@@ -11,13 +11,12 @@ date: 2025-01-31
 
 ---
 
-| Información de la máquina | |
+| Información de la máquina         |              |
 | -------------------- | ------------ |
-| **Plataforma** | HackTheBox |
-| **Sistema operativo** | Windows |
-| **Dificultad** | Fácil |
-| **IP** | 10.10.10.175 |
-- - -
+| **Plataforma**         | HackTheBox   |
+| **Sistema Operativo** | Windows      |
+| **Dificultad**       | Fácil         |
+| **IP**               | 10.10.10.175 |
 ## Enumeración
 
 Como siempre, comenzamos con `Nmap`:

@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2025 S3ntinl</copyright>
-    <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/pt-pt/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/pt-pt/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hackthebox</title>
       <link>//localhost:1313/pt-pt/tags/hackthebox/</link>
-      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/pt-pt/tags/hackthebox/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title>Post</title>
       <link>//localhost:1313/pt-pt/tags/post/</link>
-      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/pt-pt/tags/post/</guid>
       <description></description>
@@ -32,9 +32,29 @@
     <item>
       <title>Windows</title>
       <link>//localhost:1313/pt-pt/tags/windows/</link>
-      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/pt-pt/tags/windows/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bloodhound</title>
+      <link>//localhost:1313/pt-pt/tags/bloodhound/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pt-pt/tags/bloodhound/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sharphound</title>
+      <link>//localhost:1313/pt-pt/tags/sharphound/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pt-pt/tags/sharphound/</guid>
       <description></description>
       
     </item>

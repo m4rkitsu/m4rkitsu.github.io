@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 S3ntinl</copyright>
-    <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sauna</title>
+      <link>//localhost:1313/sauna/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/sauna/</guid>
+      <description>Sauna is an easy difficulty Windows machine that features Active Directory enumeration and exploitation. Possible usernames can be derived from employee full names listed on the website. With these usernames, an ASREPRoasting attack can be performed. After enumeration, BloodHound reveals that a user has the &lt;em&gt;DS-Replication-Get-Changes-All&lt;/em&gt; extended right, which allows to perform a DCSync attack.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/sauna/cover.png" />
+    </item>
+    
+    <item>
+      <title>Forest</title>
+      <link>//localhost:1313/posts/forest/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/forest/</guid>
+      <description>Forest in an easy difficulty Windows Domain Controller, for a domain in which Exchange Server has been installed. The foothoold can be obtained via AS-REP Roasting. The service account is found to be a member of the Account Operators group, which can be used to add users to later exploit DCSync privileges.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/forest/cover.png" />
+    </item>
+    
+    <item>
+      <title>How to Setup BloodHound Community Edition</title>
+      <link>//localhost:1313/posts/bloodhound/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/bloodhound/</guid>
+      <description>Quick explanation on how to get BloodHound up and running in a few minutes! This post include a step by step installation guide of &lt;strong&gt;BloodHound&lt;/strong&gt;, as well as downloading &lt;strong&gt;SharpHound&lt;/strong&gt; and uploading it to a machine in order to map out an Active Directory Network.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/bloodhound/cover.png" />
+    </item>
     
     <item>
       <title>Active</title>
@@ -20,6 +50,16 @@
     </item>
     
     <item>
+      <title>Busqueda</title>
+      <link>//localhost:1313/posts/busqueda/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/busqueda/</guid>
+      <description>Busqueda is an Easy Difficulty Linux machine that involves exploiting a command injection vulnerability present in a &lt;code&gt;Python&lt;/code&gt; module to gain user-level access to the machine. To escalate privileges to &lt;code&gt;root&lt;/code&gt;, we discover credentials within a &lt;code&gt;Git&lt;/code&gt; config file, allowing us to log into a local &lt;code&gt;Gitea&lt;/code&gt; service.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/busqueda/cover.png" />
+    </item>
+    
+    <item>
       <title>Who is S3ntinl?</title>
       <link>//localhost:1313/about/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
@@ -27,16 +67,6 @@
       <guid>//localhost:1313/about/</guid>
       <description>A little introduction about myself!</description>
       
-    </item>
-    
-    <item>
-      <title>Busqueda</title>
-      <link>//localhost:1313/posts/busqueda/</link>
-      <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/posts/busqueda/</guid>
-      <description>Busqueda is an Easy Difficulty Linux machine that involves exploiting a command injection vulnerability present in a &lt;code&gt;Python&lt;/code&gt; module to gain user-level access to the machine. To escalate privileges to &lt;code&gt;root&lt;/code&gt;, we discover credentials within a &lt;code&gt;Git&lt;/code&gt; config file, allowing us to log into a local &lt;code&gt;Gitea&lt;/code&gt; service.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/busqueda/cover.png" />
     </item>
     
   </channel>

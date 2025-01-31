@@ -3,24 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/pt-pt/posts/active/</loc>
-    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/posts/active/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="//localhost:1313/pt-pt/posts/active/"
-    />
-  </url>
-  <url>
     <loc>//localhost:1313/pt-pt/categories/blog/</loc>
-    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -36,7 +20,7 @@
   </url>
   <url>
     <loc>//localhost:1313/pt-pt/categories/</loc>
-    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -52,7 +36,7 @@
   </url>
   <url>
     <loc>//localhost:1313/pt-pt/tags/hackthebox/</loc>
-    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -68,7 +52,7 @@
   </url>
   <url>
     <loc>//localhost:1313/pt-pt/tags/post/</loc>
-    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -84,7 +68,7 @@
   </url>
   <url>
     <loc>//localhost:1313/pt-pt/categories/post/</loc>
-    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -100,7 +84,7 @@
   </url>
   <url>
     <loc>//localhost:1313/pt-pt/posts/</loc>
-    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -116,7 +100,7 @@
   </url>
   <url>
     <loc>//localhost:1313/pt-pt/</loc>
-    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -131,8 +115,14 @@
     />
   </url>
   <url>
+    <loc>//localhost:1313/pt-pt/posts/sauna/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>//localhost:1313/pt-pt/tags/</loc>
-    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -148,7 +138,7 @@
   </url>
   <url>
     <loc>//localhost:1313/pt-pt/tags/windows/</loc>
-    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -160,6 +150,86 @@
       rel="alternate"
       hreflang="es"
       href="//localhost:1313/pt-pt/tags/windows/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/tags/bloodhound/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/tags/bloodhound/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/tags/bloodhound/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/posts/bloodhound/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/posts/bloodhound/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/posts/bloodhound/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/posts/forest/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/posts/forest/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/posts/forest/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/tags/sharphound/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/tags/sharphound/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/tags/sharphound/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/posts/active/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/posts/active/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/posts/active/"
     />
   </url>
   <url>
