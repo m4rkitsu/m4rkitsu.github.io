@@ -3,7 +3,7 @@
 title: "Cómo Configurar BloodHound Community Edition"
 summary: "Explicación rápida sobre cómo poner en funcionamiento BloodHound en unos minutos. Esta publicación incluye una guía de instalación paso a paso de **BloodHound**, así como la descarga de **SharpHound** y su carga en una máquina para mapear una red de Active Directory."
 categories: ["Post","Blog",]
-tags: ["post","bloodhound","sharphound"]
+tags: ["tool"]
 #externalUrl: ""
 #showSummary: true
 draft: false

@@ -2,7 +2,7 @@
 title: "Who is S3ntinl?"
 summary: "A little introduction about myself!"
 categories: ["Post","Blog",]
-tags: ["post","whoami","about"]
+tags: ["post","whoami"]
 #externalUrl: ""
 #showSummary: true
 date: 2024-12-18

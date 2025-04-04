@@ -3,7 +3,7 @@
 title: "Forest"
 summary: "Forest in an easy difficulty Windows Domain Controller, for a domain in which Exchange Server has been installed. The foothoold can be obtained via AS-REP Roasting. The service account is found to be a member of the Account Operators group, which can be used to add users to later exploit DCSync privileges."
 categories: ["Post","Blog",]
-tags: ["post","hackthebox","windows"]
+tags: ["hackthebox machine"]
 #externalUrl: ""
 #showSummary: true
 draft: false

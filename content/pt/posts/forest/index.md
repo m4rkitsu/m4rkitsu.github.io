@@ -3,7 +3,7 @@
 title: "Forest"
 summary: "Forest en un controlador de dominio de Windows de dificultad fácil, para un dominio en el que se ha instalado Exchange Server. El punto de apoyo se puede obtener a través de AS-REP Roasting. Se descubre que la cuenta de servicio es miembro del grupo Operadores de cuenta, que se puede utilizar para agregar usuarios y aprovechar posteriormente los privilegios de DCSync."
 categories: ["Post","Blog",]
-tags: ["post","hackthebox","windows"]
+tags: ["hackthebox machine"]
 #externalUrl: ""
 #showSummary: true
 draft: false

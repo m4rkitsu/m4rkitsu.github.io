@@ -3,7 +3,7 @@
 title: "Busqueda"
 summary: "Busqueda es una máquina Linux de dificultad fácil que implica explotar una vulnerabilidad de inyección de comandos presente en un módulo `Python` para obtener acceso a nivel de usuario a la máquina. Para escalar privilegios a `root`, descubrimos credenciales dentro de un archivo de configuración `Git`, lo que nos permite iniciar sesión en un servicio `Gitea` local."
 categories: ["Post","Blog",]
-tags: ["post","linux","hackthebox"]
+tags: ["hackthebox machine"]
 #externalUrl: ""
 #showSummary: true
 draft: false

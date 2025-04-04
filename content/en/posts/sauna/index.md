@@ -3,7 +3,7 @@
 title: "Sauna"
 summary: "Sauna is an easy difficulty Windows machine that features Active Directory enumeration and exploitation. Possible usernames can be derived from employee full names listed on the website. With these usernames, an ASREPRoasting attack can be performed. After enumeration, BloodHound reveals that a user has the *DS-Replication-Get-Changes-All* extended right, which allows to perform a DCSync attack."
 categories: ["Post","Blog",]
-tags: ["post","hackthebox","windows"]
+tags: ["hackthebox machine"]
 #externalUrl: ""
 #showSummary: true
 draft: false

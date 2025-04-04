@@ -3,7 +3,7 @@
 title: "How to Setup BloodHound Community Edition"
 summary: "Quick explanation on how to get BloodHound up and running in a few minutes! This post include a step by step installation guide of **BloodHound**, as well as downloading **SharpHound** and uploading it to a machine in order to map out an Active Directory Network."
 categories: ["Post","Blog",]
-tags: ["post","bloodhound","sharphound"]
+tags: ["tools"]
 #externalUrl: ""
 #showSummary: true
 draft: false
