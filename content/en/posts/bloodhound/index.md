@@ -44,7 +44,6 @@ kali@kali:~$ sudo usermod -aG docker $USER
 
 Now, install **docker-compose** form [github](https://github.com/docker/compose/). Also, remember to give execution rights to the binary and add it to the `/usr/bin` directory.
 
->[!Note]
 >Keep in mind your architecture of Linux when downloading Docker-Compose. I use ARM Version of Kali Linux but you may use other version.
 
 ```bash
