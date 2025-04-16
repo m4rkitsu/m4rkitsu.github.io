@@ -25,11 +25,11 @@ En este post, voy a compartir cómo me preparé para el examen, qué herramienta
 
   
 
-Una de las lecciones más importantes que aprendí del OSCP es que este examen no sólo trata de habilidades técnicas, sino también de **resistencia mental**. Te atascarás. Muchas veces. Y eso está bien (al menos la mayoría de las veces). Lo que importa es cómo respondes. Mantener la calma, pensar metódicamente, aprender de los errores y seguir adelante incluso cuando las cosas parecen imposibles es una parte fundamental del proceso.
+Una de las lecciones más importantes que aprendí del OSCP es que este examen no sólo trata de habilidades técnicas, sino también de **resistencia mental**. Te vas a estancar. Mucho. Y eso está bien (al menos la mayoría de las veces). Lo que importa que aprendas de los errores. Mantener la calma, pensar metódicamente y seguir adelante incluso cuando las cosas parecen imposibles es una parte fundamental del proceso.
 
   
 
-Otro elemento clave es **tomar buenas notas**. Sin una documentación sólida, vas a perder horas repitiendo los mismos pasos. Personalmente, utilicé **Obsidian** para organizarlo todo: desde listas de comprobación de enumeraciones hasta trucos de privesc y frases de una sola línea. Tener mis propias notas estructuradas no sólo me ayudó durante los laboratorios, sino que fue absolutamente esencial durante el examen y para redactar el informe final.
+Otro elemento clave es **tomar buenas notas**. Sin una documentación sólida, vas a perder horas repitiendo los mismos pasos. Personalmente, utilicé **Obsidian** para organizarlo todo: desde la fase de enumeración hasta técnicas de privesc. Tener mis propias notas estructuradas no sólo me ayudó durante los laboratorios, sino que fue absolutamente esencial durante el examen y para redactar el informe final.
 
 
 Crear un método de **toma de notas** no sólo me ayudó a pensar con más claridad y a seguir mi progreso en el hacking, sino que también me permitió comprender mejor cómo aprendo y crezco en general. Anotar las cosas me obligó a ir más despacio y a entender realmente lo que estaba haciendo, en lugar de apresurarme a seguir los pasos. Me ayudó a reconocer patrones en mis errores, a refinar mi metodología y a abordar los problemas con más calma.
