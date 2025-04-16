@@ -75,6 +75,6 @@ Tardé unas **18 horas** en terminar el examen y el informe. Fui despacio y me a
 
 Mientras preparaba el OSCP, descubrí lo interesantes que son los entornos de **Active Directory** - la complejidad, las rutas de ataque, el pivoting... realmente me pareció muy divertida esa rama del hacking.  
 
-Dicho esto, creo que verdadera pasión es el **hacking web**. Me encanta la creatividad y la profundidad que requiere, además de poder llegar a obtener un impacto grándisimo con heramientas básicas, como un navegador. Mis próximos pasos se centran en aprender más en ese mundo para empezar a desarrollarme en el Bug Bounty Hunting un poco más, pero sin dejar de lado Active Directory, ya que siempre busco ser lo más polivalente posible.
+Dicho esto, creo que mi verdadera pasión es el **hacking web**. Me encanta la creatividad y la profundidad que requiere, además de poder llegar a obtener un impacto grándisimo con heramientas básicas, como un navegador. Mis próximos pasos se centran en aprender más en ese mundo para empezar a desarrollarme en el Bug Bounty Hunting un poco más, pero sin dejar de lado Active Directory, ya que siempre busco ser lo más polivalente posible.
 
-Por supuesto, con el OSCP esto no ha hecho más que empezar!.
+Por supuesto, con el OSCP esto no ha hecho más que empezar!
