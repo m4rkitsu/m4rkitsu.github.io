@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 S3ntinl</copyright>
-    <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Aprobé el OSCP: Así es como lo he hecho</title>
+      <link>//localhost:1313/posts/oscp/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/oscp/</guid>
+      <description>En este post, te cuento un resumen rápido de mi experiencia con el OSCP, desde cómo preparé la certificación hasta el día del examen. Echa un vistazo!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/oscp/cover.png" />
+    </item>
     
     <item>
       <title>Sauna</title>
@@ -57,16 +67,6 @@
       <guid>//localhost:1313/posts/busqueda/</guid>
       <description>Busqueda is an Easy Difficulty Linux machine that involves exploiting a command injection vulnerability present in a &lt;code&gt;Python&lt;/code&gt; module to gain user-level access to the machine. To escalate privileges to &lt;code&gt;root&lt;/code&gt;, we discover credentials within a &lt;code&gt;Git&lt;/code&gt; config file, allowing us to log into a local &lt;code&gt;Gitea&lt;/code&gt; service.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/busqueda/cover.png" />
-    </item>
-    
-    <item>
-      <title>Aprobé el OSCP: Así es como lo he hecho</title>
-      <link>//localhost:1313/posts/oscp/</link>
-      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/posts/oscp/</guid>
-      <description>En este post, te cuento un resumen rápido de mi experiencia con el OSCP, desde cómo preparé la certificación hasta el día del examen. Echa un vistazo!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/oscp/cover.png" />
     </item>
     
   </channel>
