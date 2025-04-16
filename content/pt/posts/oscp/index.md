@@ -16,7 +16,7 @@ date: 2025-04-16
 
 Estoy orgulloso de contaros que he completado la certificación **Offensive Security Certified Professional (OSCP)**. Ha sido una de las experiencias más duras y a la vez gratificantes de mi vida. Esta certificación me ha llevado al límite, ha puesto a prueba no sólo mis habilidades técnicas, sino también mi paciencia y disciplina.
 
-![OSCP1](oscp1.png)
+![OSCP1](/img/oscp/oscp1.png)
   
   
 En este post, voy a compartir cómo me preparé para el examen, qué herramientas y recursos me ayudaron más, y mi revisión honesta de todo el proceso - desde los laboratorios hasta el informe final.

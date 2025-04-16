@@ -1,7 +1,7 @@
 
 ---
 title: "I Passed the OSCP: Here’s What Worked for Me"
-summary: "In this post, I share a quick overview of my OSCP journey with you, from how I prepared the certification to the struggles that I've had. Take a look!"
+summary: "In this post, I share a quick overview of my OSCP journey with you, from how I prepared the certification to the struggles that I´ve had. Take a look!"
 categories: ["Post","Blog",]
 tags: ["certification experience"]
 #externalUrl: ""
@@ -15,7 +15,7 @@ date: 2025-04-16
 
 I can’t describe how excited and proud I am to have completed the **Offensive Security Certified Professional (OSCP)** certification. It’s been one of the most challenging yet rewarding experiences in my life. This certification pushed me to my limits, tested not only my technical skills but also my mindset, patience, and discipline.
 
-![OSCP1](oscp1.png)
+![OSCP1](/img/oscp/oscp1.png)
   
 In this post, I’ll share how I prepared for the exam, what tools and resources helped me the most, and my honest review of the whole process — from the labs to the final report.
 
