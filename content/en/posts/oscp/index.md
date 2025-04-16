@@ -65,6 +65,6 @@ It took me around **18 hours** to finish both the exam and the report. I went sl
 
 While working toward the OSCP, I discovered how interesting **Active Directory** environments can be — the complexity, the attack paths, the lateral movement… it really opened my eyes to how powerful and fun that side of hacking can be.
 
-That said, I think my true passion is **web hacking**. I love the creativity and depth it requires, plus being able to make a huge impact with basic tools like a browser. My next steps are focused on learning more in that world to start developing myself in Bug Bounty Hunting a bit more.
+That said, I think my true passion is **web hacking**. I love the creativity and depth that it requires, plus being able to make a huge impact with basic tools, like a browser. My next steps are focused on learning more in that world to start developing myself in Bug Bounty Hunting a bit more, but without leaving Active Directory aside, as I'm always looking to be as versatile as possible.
 
 With this said, this journey is far from over — OSCP was just the beginning. And remember: **Try Harder!**
