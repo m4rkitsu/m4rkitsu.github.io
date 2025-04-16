@@ -59,5 +59,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/busqueda/cover.png" />
     </item>
     
+    <item>
+      <title>Aprobé el OSCP: Así es como lo he hecho</title>
+      <link>//localhost:1313/posts/oscp/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/oscp/</guid>
+      <description>En este post, te cuento un resumen rápido de mi experiencia con el OSCP, desde cómo preparé la certificación hasta el día del examen. Echa un vistazo!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/oscp/cover.png" />
+    </item>
+    
   </channel>
 </rss>

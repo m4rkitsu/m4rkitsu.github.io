@@ -35,35 +35,19 @@
     />
   </url>
   <url>
-    <loc>//localhost:1313/tags/hackthebox/</loc>
+    <loc>//localhost:1313/tags/hackthebox-machine/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="//localhost:1313/pt-pt/tags/hackthebox/"
+      href="//localhost:1313/pt-pt/tags/hackthebox-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/tags/hackthebox/"
-    />
-  </url>
-  <url>
-    <loc>//localhost:1313/tags/post/</loc>
-    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="//localhost:1313/pt-pt/tags/post/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/tags/post/"
+      href="//localhost:1313/tags/hackthebox-machine/"
     />
   </url>
   <url>
@@ -83,6 +67,22 @@
     />
   </url>
   <url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/posts/"
+    />
+  </url>
+  <url>
     <loc>//localhost:1313/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -99,10 +99,20 @@
     />
   </url>
   <url>
-    <loc>//localhost:1313/sauna/</loc>
+    <loc>//localhost:1313/posts/sauna/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/posts/sauna/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/posts/sauna/"
+    />
   </url>
   <url>
     <loc>//localhost:1313/tags/</loc>
@@ -118,38 +128,6 @@
       rel="alternate"
       hreflang="en"
       href="//localhost:1313/tags/"
-    />
-  </url>
-  <url>
-    <loc>//localhost:1313/tags/windows/</loc>
-    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="//localhost:1313/pt-pt/tags/windows/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/tags/windows/"
-    />
-  </url>
-  <url>
-    <loc>//localhost:1313/tags/bloodhound/</loc>
-    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="//localhost:1313/pt-pt/tags/bloodhound/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/tags/bloodhound/"
     />
   </url>
   <url>
@@ -185,36 +163,10 @@
     />
   </url>
   <url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>//localhost:1313/tags/tools/</loc>
     <lastmod>2025-01-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="//localhost:1313/pt-pt/posts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/posts/"
-    />
-  </url>
-  <url>
-    <loc>//localhost:1313/tags/sharphound/</loc>
-    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="//localhost:1313/pt-pt/tags/sharphound/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/tags/sharphound/"
-    />
   </url>
   <url>
     <loc>//localhost:1313/posts/active/</loc>
@@ -249,10 +201,36 @@
     />
   </url>
   <url>
-    <loc>//localhost:1313/tags/linux-/</loc>
-    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/posts/oscp/oscp/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/posts/oscp/oscp/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/posts/oscp/oscp/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/tags/certification-experience/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/tags/certification-experience/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/tags/certification-experience/"
+    />
   </url>
   <url>
     <loc>//localhost:1313/tags/about/</loc>
@@ -284,22 +262,6 @@
       rel="alternate"
       hreflang="en"
       href="//localhost:1313/about/"
-    />
-  </url>
-  <url>
-    <loc>//localhost:1313/tags/whoami/</loc>
-    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="//localhost:1313/pt-pt/tags/whoami/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/tags/whoami/"
     />
   </url>
   <url>

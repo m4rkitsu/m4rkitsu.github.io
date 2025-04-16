@@ -11,12 +11,12 @@
     
     <item>
       <title>Sauna</title>
-      <link>//localhost:1313/sauna/</link>
+      <link>//localhost:1313/posts/sauna/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/sauna/</guid>
+      <guid>//localhost:1313/posts/sauna/</guid>
       <description>Sauna is an easy difficulty Windows machine that features Active Directory enumeration and exploitation. Possible usernames can be derived from employee full names listed on the website. With these usernames, an ASREPRoasting attack can be performed. After enumeration, BloodHound reveals that a user has the &lt;em&gt;DS-Replication-Get-Changes-All&lt;/em&gt; extended right, which allows to perform a DCSync attack.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/sauna/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/sauna/cover.png" />
     </item>
     
     <item>
@@ -57,6 +57,16 @@
       <guid>//localhost:1313/posts/busqueda/</guid>
       <description>Busqueda is an Easy Difficulty Linux machine that involves exploiting a command injection vulnerability present in a &lt;code&gt;Python&lt;/code&gt; module to gain user-level access to the machine. To escalate privileges to &lt;code&gt;root&lt;/code&gt;, we discover credentials within a &lt;code&gt;Git&lt;/code&gt; config file, allowing us to log into a local &lt;code&gt;Gitea&lt;/code&gt; service.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/busqueda/cover.png" />
+    </item>
+    
+    <item>
+      <title>Aprobé el OSCP: Así es como lo he hecho</title>
+      <link>//localhost:1313/posts/oscp/oscp/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/oscp/oscp/</guid>
+      <description>En este post, te cuento un resumen rápido de mi experiencia con el OSCP, desde cómo preparé la certificación hasta el día del examen. Echa un vistazo!</description>
+      
     </item>
     
     <item>
