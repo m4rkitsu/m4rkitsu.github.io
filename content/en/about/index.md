@@ -9,7 +9,7 @@ date: 2024-12-18
 draft: false
 ---
 ## Biography
-Hi! My name is Marcos, and I’m a 21-year-old Cybersecurity student. On the Internet, you might know me as **S3n** or **S3ntinl**. I’m currently pursuing a Master’s Degree in Cybersecurity for Information Technology Environments and preparing for the **OSCP** certification.
+Hi! My name is Marcos, and I’m a 21-year-old Cybersecurity student. I own the **OSCP+** Certification. On the Internet, you might know me as **S3n** or **S3ntinl**. I’m currently pursuing a Master’s Degree in Cybersecurity for Information Technology Environments.
 
 I spend most of my time coding, solving CTFs, or overall, studying. My passion lies into hacking and finding creative ways to solve problems.
 

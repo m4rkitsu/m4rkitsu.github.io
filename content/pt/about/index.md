@@ -9,7 +9,7 @@ date: 2024-12-18
 draft: false
 ---
 ## Biografía
-¡Hola! Me llamo Marcos y soy un estudiante de Ciberseguridad de 21 años. En Internet, quizá me conozcas como **S3n** o **S3ntinl**. Actualmente estoy cursando un Máster en Ciberseguridad en Entornos de Tecnologías de la Información y preparándome para la certificación **OSCP**.
+¡Hola! Me llamo Marcos y soy un estudiante de Ciberseguridad de 21 años. Actualmente, poseo la certificación **OSCP+**. En Internet, quizá me conozcas como **S3n** o **S3ntinl**. Actualmente estoy cursando un Máster en Ciberseguridad en Entornos de Tecnologías de la Información.
 
 Paso la mayor parte de mi tiempo programando, resolviendo CTFs o, en general, estudiando. Mi pasión está en el hacking y en encontrar formas creativas de resolver problemas.
 
