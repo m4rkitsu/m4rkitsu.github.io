@@ -10,12 +10,12 @@
     <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/pt-pt/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>I Passed the OSCP: Here’s What Worked for Me</title>
+      <title>Aprobé el OSCP: Así es como lo he hecho</title>
       <link>//localhost:1313/pt-pt/posts/oscp/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/pt-pt/posts/oscp/</guid>
-      <description>In this post, I share a quick overview of my OSCP journey with you, from how I prepared the certification to the struggles that I&amp;rsquo;ve had. Take a look!</description>
+      <description>En este post, te cuento un resumen rápido de mi experiencia con el OSCP, desde cómo preparé la certificación hasta el día del examen. Echa un vistazo!</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/pt-pt/posts/oscp/cover.png" />
     </item>
     

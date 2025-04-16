@@ -1,7 +1,7 @@
 
 ---
-title: "I Passed the OSCP: Here’s What Worked for Me"
-summary: "In this post, I share a quick overview of my OSCP journey with you, from how I prepared the certification to the struggles that I've had. Take a look!"
+title: "Aprobé el OSCP: Así es como lo he hecho"
+summary: "En este post, te cuento un resumen rápido de mi experiencia con el OSCP, desde cómo preparé la certificación hasta el día del examen. Echa un vistazo!"
 categories: ["Post","Blog",]
 tags: ["certification experience"]
 #externalUrl: ""
@@ -11,60 +11,76 @@ date: 2025-04-16
 
 ---
 
-## **I Passed the OSCP!**
+  
+## Aprobé el **OSCP!**
 
-I can’t describe how excited and proud I am to have completed the **Offensive Security Certified Professional (OSCP)** certification. It’s been one of the most challenging yet rewarding experiences in my life. This certification pushed me to my limits, tested not only my technical skills but also my mindset, patience, and discipline.
+Estoy orgulloso de contaros que he completado la certificación **Offensive Security Certified Professional (OSCP)**. Ha sido una de las experiencias más duras y a la vez gratificantes de mi vida. Esta certificación me ha llevado al límite, ha puesto a prueba no sólo mis habilidades técnicas, sino también mi paciencia y disciplina.
 
 ![OSCP1](oscp1.png)
   
-In this post, I’ll share how I prepared for the exam, what tools and resources helped me the most, and my honest review of the whole process — from the labs to the final report.
+  
+En este post, voy a compartir cómo me preparé para el examen, qué herramientas y recursos me ayudaron más, y mi revisión honesta de todo el proceso - desde los laboratorios hasta el informe final.
 
-## Developing the **Try Harder** Mentality.
-
-One of the most important lessons I took from the OSCP is that this exam isn’t only about technical skill — it’s about **mental endurance**. You’ll get stuck. A lot. And that’s fine, (most of the times at least) . What matters is how you respond to it. Staying calm, thinking methodically, learning from mistakes and pushing forward even when things feel impossible is a huge part of the process.
+## Desarrollar la mentalidad de «Try Harder».
 
   
-Another key element is **taking good notes**. Without solid documentation, you’re going to waste hours repeating the same steps. Personally, I used **Obsidian** to organize everything — from enumeration checklists to privesc tricks and one-liners. Having my own structured notes not only helped me during the labs but was absolutely essential during the exam and for writing the final report.
+
+Una de las lecciones más importantes que aprendí del OSCP es que este examen no sólo trata de habilidades técnicas, sino también de **resistencia mental**. Te atascarás. Muchas veces. Y eso está bien (al menos la mayoría de las veces). Lo que importa es cómo respondes. Mantener la calma, pensar metódicamente, aprender de los errores y seguir adelante incluso cuando las cosas parecen imposibles es una parte fundamental del proceso.
+
+  
+
+Otro elemento clave es **tomar buenas notas**. Sin una documentación sólida, vas a perder horas repitiendo los mismos pasos. Personalmente, utilicé **Obsidian** para organizarlo todo: desde listas de comprobación de enumeraciones hasta trucos de privesc y frases de una sola línea. Tener mis propias notas estructuradas no sólo me ayudó durante los laboratorios, sino que fue absolutamente esencial durante el examen y para redactar el informe final.
 
 
-Creating a **note-taking** method not only helped me think more clearly and track my progress in hacking, but it also gave me better insight into how I learn and grow in general. Writing things down forced me to slow down and really understand what I was doing, instead of just rushing through steps. It helped me recognize patterns in my mistakes, refine my methodology, and approach problems more calmly.
+Crear un método de **toma de notas** no sólo me ayudó a pensar con más claridad y a seguir mi progreso en el hacking, sino que también me permitió comprender mejor cómo aprendo y crezco en general. Anotar las cosas me obligó a ir más despacio y a entender realmente lo que estaba haciendo, en lugar de apresurarme a seguir los pasos. Me ayudó a reconocer patrones en mis errores, a refinar mi metodología y a abordar los problemas con más calma.
 
-Over time, note-taking became more than just a study tool — it became part of how I process information and reflect on my learning, both technically and personally, as it forces you to **slow down and reflect**. Using **Obsidian** made it easier to connect ideas, revisit past concepts, and stay organized through the entire OSCP journey.
+  
 
-Taking notes forces you to **slow down and reflect**, which is something this certification constantly requires. It helps build your methodology and gives you confidence knowing that everything you’ve learned is at your fingertips.
+Con el tiempo, tomar notas se convirtió en algo más que una herramienta de estudio: pasó a formar parte de mi forma de procesar la información y reflexionar sobre mi aprendizaje, tanto técnica como personalmente, ya que te obliga a **desacelerar y reflexionar**. Usar **Obsidian** hizo más fácil conectar ideas, revisar conceptos pasados y mantenerme organizado a través de todo el viaje OSCP.
+
+  
+
+Tomar notas te obliga a **desacelerar y reflexionar**, que es algo que esta certificación requiere constantemente. Ayuda a construir tu metodología y te da confianza sabiendo que todo lo que has aprendido está a tu alcance.
 
 ---
 
-## OSCP Preparation: What **Worked** for Me?
+## Preparación para el OSCP: ¿Qué **funcionó** para mí?
 
-Before I even considered going for the OSCP, I spent a lot of time on **Hack The Box**, solving a long list of machines to build a strong foundation. That hands-on experience helped me develop my skill set and build a solid “toolbelt” of techniques. In my opinion, experience is key, and working on CTF-style machines is essential to understand the mindset and methodology needed for certifications like the **OSCP**.
-
-After that, I completed the **CPTS Path** from HTB Academy — in my opinion, one of the best resources out there to learn ethical hacking. It builds a solid foundation starting from zero, and for the price, it’s too good. I haven’t taken the **CPTS** exam yet, but the course itself gave me a strong understanding of penetration testing methodology and helped reinforce many of the core concepts I later applied during my **OSCP** preparation.
-
-
-Once I felt confident enough, I enrolled in the **OSCP (PEN-200) course**. I went through the learning modules carefully, made detailed notes, and practiced the techniques on the included labs. Having the **CPTS** knowledge definitly helped a lot. After that, I did the **Challenge Labs**, which were more advanced and really pushed me to apply everything I’d learned.
   
 
-To wrap up my preparation, I worked on boxes from **TJ Null’s OSCP-like list** for **Proving Grounds** to simulate the exam environment. These helped me polish my workflow and improve my speed under pressure, working on a machine per day during about 2-3 months.
+Antes incluso de plantearme presentarme al OSCP, pasé mucho tiempo en **Hack The Box**, resolviendo una larga lista de máquinas para construir una base sólida. Esa experiencia práctica me ayudó a desarrollar mi conjunto de habilidades y a construir un sólido «cinturón de herramientas» de técnicas. En mi opinión, la experiencia es clave, y trabajar en máquinas de estilo CTF es esencial para comprender la mentalidad y la metodología necesarias para certificaciones como la **OSCP**.
+
+  
+
+Después de eso, completé el **CPTS Path** de HTB Academy - en mi opinión, uno de los mejores recursos que existen para aprender hacking ético. Construye una base sólida a partir de cero, y por el precio, es demasiado bueno. Todavía no he hecho el examen **CPTS**, pero el curso en sí me dio una sólida comprensión de la metodología de las pruebas de penetración y me ayudó a reforzar muchos de los conceptos básicos que más tarde apliqué durante mi preparación para el **OSCP**.
+
+  
+
+  
+
+Una vez que me sentí lo suficientemente seguro, me inscribí en el curso **OSCP (PEN-200)**. Repasé detenidamente los módulos de aprendizaje, tomé notas detalladas y practiqué las técnicas en los laboratorios incluidos. Contar con los conocimientos del **CPTS** sin duda me ayudó mucho. Después de eso, hice los **Laboratorios de Desafío**, que eran más avanzados y realmente me empujaron a aplicar todo lo que había aprendido.
+  
+
+Para terminar mi preparación, trabajé en cajas de la lista de **TJ Null's OSCP-like** para **Proving Grounds** para simular el entorno del examen. Estos me ayudaron a pulir mi flujo de trabajo y mejorar mi velocidad bajo presión, trabajando en una máquina al día durante unos 2-3 meses.
 
 - - -
 
-## Exam Day: How was It?
+## El día del examen: ¿Cómo fue?
 
-The exam was definitely challenging, but not overwhelming — exactly what I expected after all the preparation. The hardest part of this test it is not just the technical ability, but the **mental one**. You need to stay focused, think logically, and keep your emotions in check.
-  
-In the days leading up to the exam, I made sure to stay calm and plan my approach with a clear head. Take some time to plan your meals, take rests, drink water and just stay calm! Going in with a cold, methodical mindset made a big difference — it helped me avoid panicking when things didn’t work right away (which happened several times during the test).
+El examen fue sin duda complicado, pero no imposible. Fue exactamente lo que esperaba después de toda la preparación. Lo más difícil de este examen no es el requerimiento técnico, sino la parte mental. Este examen sólo se puede aprobar si consigues mantener la calma y la concentración, por lo que son habilidades que se deben desarrollar.
 
-To make things even more interesting, I took the exam on an **M3 MacBook**, which added a few extra layers of difficulty with compatibility and setup. But it worked — and I’m proud of that too haha :)
+En los días previos al examen, intenté estar lo más tranquilo posible y estar con la cabeza despejada. Piensa en planificar las comidas, descansos, beber agua y simplemente, mantener la calma. Ir con una mentalidad fría marcó una gran diferencia, pues debes evitar el pánico a toda costa cuando las cosas no funcionaban a la primera (cosa que me ocurrió varias veces durante el examen).
 
-It took me around **18 hours** to finish both the exam and the report. I went slow and steady and relied heavily on my notes. By the end, I was mentally exhausted but proud of what I’d accomplished.
+Para hacer las cosas aún más interesantes, hice el examen en un **MacBook M3**, lo que añadió algunas (muchas XD) dificultades adicionales de compatibilidad y configuración. Pero funcionó - y estoy orgulloso de eso también jaja.
+
+Tardé unas **18 horas** en terminar el examen y el informe. Fui despacio y me apoyé mucho en mis apuntes. Al final acabé agotado, pero contento con el resultado.
 
 - - -
 
-## What's Next?
+## ¿Qué es lo siguiente?
 
-While working toward the OSCP, I discovered how interesting **Active Directory** environments can be — the complexity, the attack paths, the lateral movement… it really opened my eyes to how powerful and fun that side of hacking can be.
+Mientras preparaba el OSCP, descubrí lo interesantes que son los entornos de **Active Directory** - la complejidad, las rutas de ataque, el pivoting... realmente me pareció muy divertida esa rama del hacking.  
 
-That said, I think my true passion is **web hacking**. I love the creativity and depth it requires, plus being able to make a huge impact with basic tools like a browser. My next steps are focused on learning more in that world to start developing myself in Bug Bounty Hunting a bit more.
+Dicho esto, creo que verdadera pasión es el **hacking web**. Me encanta la creatividad y la profundidad que requiere, además de poder llegar a obtener un impacto grándisimo con heramientas básicas, como un navegador. Mis próximos pasos se centran en aprender más en ese mundo para empezar a desarrollarme en el Bug Bounty Hunting un poco más.
 
-With this said, this journey is far from over — OSCP was just the beginning. And remember: **Try Harder!**
+Por supuesto, con el OSCP esto no ha hecho más que empezar!.

@@ -8,6 +8,10 @@ tags: ["about"]
 date: 2024-12-18
 draft: false
 ---
+## Certificaciones
+
+<img src="https://www.offsec.com/_astro/OSCP-plus.BZHuApYA_26szk9.svg" alt="OSCP+" width="100">
+
 ## Biografía
 ¡Hola! Me llamo Marcos y soy un estudiante de Ciberseguridad de 21 años. Actualmente, poseo la certificación **OSCP+**. En Internet, quizá me conozcas como **S3n** o **S3ntinl**. Actualmente estoy cursando un Máster en Ciberseguridad en Entornos de Tecnologías de la Información.
 
