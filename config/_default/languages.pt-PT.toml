@@ -1,14 +1,14 @@
 languageCode = "es"
 languageName = "Español"
 weight = 1
-title = "M4rkitsu"
+title = "Markitsu"
 contentDir = "content/pt"
 
 [params]
 displayName = "Español"
 isoCode = "es"
 rtl = false
-description = "M4rkitsu's Hacking Blog"
+description = "Markitsu's Hacking Blog"
 dateFormat = "02 / 01 / 2006"
 author = { name = "Markitsu", image = "img/author.jpeg", headline = "Hacker Ético | Penetration Tester | Bug Bounty Hunter", bio = "Embrace The Unseen", links = [ { link = "https://app.hackthebox.com/profile/1650462" }, { github = "https://github.com/S3ntinl" }, { linkedin = "https://www.linkedin.com/in/marcosgarciaarcos/" } ] }
 
