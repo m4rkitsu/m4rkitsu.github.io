@@ -1,5 +1,5 @@
 ---
-title: "Who is S3ntinl?"
+title: "Who is Markitsu?"
 summary: "A little introduction about myself!"
 categories: ["Post","Blog",]
 tags: ["about"]
@@ -10,7 +10,7 @@ draft: false
 ---
 ## Certifications
 
-<img src="https://www.offsec.com/_astro/OSCP-plus.BZHuApYA_26szk9.svg" alt="OSCP+" width="100">
+<img src="https://www.offsec.com/_astro/OSCP-plus.BZHuApYA.svg" alt="OSCP+" width="100">
 
 ## Biography
 Hi! My name is Marcos, and I’m a 21-year-old Cybersecurity student. I own the **OSCP+** Certification. On the Internet, you might know me as **Marki** or **Markitsu**. I’m currently pursuing a Master’s Degree in Cybersecurity for Information Technology Environments.
