@@ -38,7 +38,7 @@ Registremos la cuenta con `test@email.htb` y solicitemos un token para cambiar l
 
 Capturemos la solicitud de restablecimiento de contraseña con Burp.
 
-![armaxis3(img/armaxis/armaxis3.png)
+![armaxis3](img/armaxis/armaxis3.png)
 
 No hay validación en el campo de correo electrónico en relación con el token solicitado, por lo que podemos cambiar la contraseña de una cuenta con privilegios.
 
