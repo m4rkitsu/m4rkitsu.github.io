@@ -10,5 +10,5 @@ isoCode = "es"
 rtl = false
 description = "S3ntinl's Hacking Blog"
 dateFormat = "02 / 01 / 2006"
-author = { name = "S3ntinl", image = "img/author.jpeg", headline = "Hacker Ético | Penetration Tester | Bug Bounty Hunter", bio = "Embrace The Unseen", links = [ { link = "https://app.hackthebox.com/profile/1650462" }, { github = "https://github.com/S3ntinl" }, { linkedin = "https://www.linkedin.com/in/marcosgarciaarcos/" } ] }
+author = { name = "Markitsu", image = "img/author.jpeg", headline = "Hacker Ético | Penetration Tester | Bug Bounty Hunter", bio = "Embrace The Unseen", links = [ { link = "https://app.hackthebox.com/profile/1650462" }, { github = "https://github.com/S3ntinl" }, { linkedin = "https://www.linkedin.com/in/marcosgarciaarcos/" } ] }
 
