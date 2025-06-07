@@ -66,4 +66,4 @@ The flag will be embeded in the HTML and will not actually display in the conten
 
 There we go!
 
-![[img/armaxis/armaxis7.png]]
+![armaxis7](img/armaxis/armaxis7.png)
