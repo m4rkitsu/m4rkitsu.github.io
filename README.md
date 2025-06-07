@@ -1,6 +1,6 @@
-🌐 Welcome to Markitsu's Hacking Blog! 🌐
+🌐 Welcome to S3ntinl's Hacking Blog! 🌐
 
-Hi, im Marcos, also known as Markitsu! 👋
+Hi, im Marcos, also known as S3ntinl! 👋
 This repository is the home of my ethical hacking journey, where I document my progress in the vast and fascinating world of cybersecurity.
 
 What you’ll find here:
