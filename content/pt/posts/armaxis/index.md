@@ -48,7 +48,7 @@ Iniciar sesión como usuario con privilegios nos permite usar una nueva función
 
 Este formulario está diseñado para agregar armas a una lista.
 
-![armaxis8](img/armaxis/armaxis8.png | 300)
+![armaxis8](img/armaxis/armaxis8.png)
 
 ## Segunda vulnerabilidad:  Local File Inclusion via Markdown / HTML Injection
 

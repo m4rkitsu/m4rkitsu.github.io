@@ -48,7 +48,7 @@ Login as a privileged user allows us to use a new function called `Dispatch Weap
 
 This form is made to add weapons to a list. 
 
-![armaxis8](img/armaxis/armaxis8.png | 300)
+![armaxis8](img/armaxis/armaxis8.png)
 
 ## Second Vulnerability - Local File Inclusion via Markdown / HTML Injection
 
