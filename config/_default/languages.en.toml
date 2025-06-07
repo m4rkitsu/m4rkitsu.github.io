@@ -10,6 +10,6 @@ isoCode = "en"
 rtl = false
 description = "S3ntinl's Hacking Blog"
 dateFormat = "2 January 2006"
-author = { name = "S3ntinl", image = "img/author.jpeg", headline = "Ethical Hacker | Penetration Tester | Bug Bounty Hunter", bio = "Embrace The Unseen", links = [ { link = "https://app.hackthebox.com/profile/1650462" }, { github = "https://github.com/S3ntinl" }, { linkedin = "https://www.linkedin.com/in/marcosgarciaarcos/" } ] }
+author = { name = "S3N", image = "img/author.jpeg", headline = "Ethical Hacker | Penetration Tester | Bug Bounty Hunter", bio = "Embrace The Unseen", links = [ { link = "https://app.hackthebox.com/profile/1650462" }, { github = "https://github.com/S3ntinl" }, { linkedin = "https://www.linkedin.com/in/marcosgarciaarcos/" } ] }
 
 
