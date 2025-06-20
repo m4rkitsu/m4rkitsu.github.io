@@ -1,7 +1,7 @@
 
 ---
 title: "WayWitch"
-summary: "Hidden in the shadows, a coven of witches communicates through arcane tokens, their messages cloaked in layers of dark enchantments. These enchanted tokens safeguard their cryptic conversations, masking sinister plots that threaten to unfold under the veil of night. However, whispers suggest that their protective spells are flawed, allowing outsiders to forge their own charms."
+summary: "Very Easy Web Challenge. Based on abusing some bad practices when using JSON Web Tokens."
 categories: ["Post","Blog",]
 tags: ["hackthebox challenge"]
 #externalUrl: ""

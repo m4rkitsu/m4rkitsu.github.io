@@ -1,7 +1,7 @@
 
 ---
 title: "WayWitch"
-summary: "Oculto en las sombras, un aquelarre de brujas se comunica mediante símbolos arcanos, cuyos mensajes están envueltos en capas de oscuros encantamientos. Estos símbolos encantados protegen sus crípticas conversaciones, ocultando siniestros planes que amenazan con desenvolverse bajo el velo de la noche. Sin embargo, rumores sugieren que sus hechizos protectores son defectuosos, lo que permite a los forasteros forjar sus propios encantos."
+summary: "Challenge Web de categoría muy fácil. Centrado en explotar algunas malas prácticas de los JSON Web Tokens."
 categories: ["Post","Blog",]
 tags: ["hackthebox challenge"]
 #externalUrl: ""
